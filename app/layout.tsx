@@ -33,7 +33,7 @@ export default function RootLayout({
             <div className="flex sm:flex-row flex-col items-center justify-between mb-8 border-b border-gray-600 p-8 w-full max-w-std-width">
               <div className="flex text-3xl">
                 <RenderLogo />
-                MediaPegham
+                MediaMancer
               </div>
               <div className="flex items-center mt-2 sm:mt-0">
                 {/* <div className="pr-8 text-base"> Login</div> */}
@@ -44,7 +44,7 @@ export default function RootLayout({
           {children}
           <div className="flex items-center justify-center">
             <div className="flex items-end justify-center mt-8 py-8 border-t border-gray-600 w-full max-w-std-width">
-              MediaPegham © Copyright 2024.
+              MediaMancer © Copyright 2024.
             </div>
           </div>
         </ThemeProvider>
