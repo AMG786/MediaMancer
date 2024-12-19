@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # MediaMantra
-=======
 ## Getting Started
 
 First, run the development server:
@@ -35,6 +33,4 @@ Step 2 - ...
 ```
 
 Summarize the text delimited by triple quotes in about 50 words.
-```
 
->>>>>>> origin/master

@@ -9,8 +9,8 @@ import Icon from '@/public/writingIcon-light.svg'
 
 export const metadata: Metadata = {
   title: "MediaPegham",
-  description: "Created with love by Faizan Ahmed",
-  authors: [{name:'Faizan Ahmed'}],
+  description: "Created with love by Abdul Mueez",
+  authors: [{name:'Abdul Mueez'}],
   keywords:['post generator', "social media", "AI", "Artifical intelligence", "LinkedIn", "Twitter", "Medium" ],
   icons: Icon
 };
