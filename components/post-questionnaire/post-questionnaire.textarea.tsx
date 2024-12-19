@@ -35,7 +35,6 @@ export function PostQuestionnaireTextarea({
       name={fieldName}
       render={({ field }) => (
         <FormItem>
-          {/* <FormLabel className="text-2xl">Post description</FormLabel> */}
           <FormDescription className="text-lg font-[500]">
             {description}
           </FormDescription>
