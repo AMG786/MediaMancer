@@ -1,4 +1,4 @@
-# MediaPegham
+# MediaMancer
 ## Getting Started
 
 First, run the development server:
